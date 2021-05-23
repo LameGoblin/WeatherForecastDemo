@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="cities">
+        <item>gothenburg</item>
+        <item>stockholm</item>
+        <item>mountain view</item>
+        <item>london</item>
+        <item>new york</item>
+        <item>berlin</item>
+    </string-array>
+</resources>

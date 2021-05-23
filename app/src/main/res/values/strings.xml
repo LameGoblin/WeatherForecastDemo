@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather Forecast Test</string>
+    <string name="title">Tomorrow’s Weather Forecast</string>
+    <string name="max">"Max: "</string>
+    <string name="min">"Min: "</string>
+    <string name="degree">"°C"</string>
+    <string name="wind">"Wind: "</string>
+    <string name="meters_per_hour">"mph"</string>
+    <string name="description">"weather state"</string>
+</resources>
